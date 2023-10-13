@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\bin\Debug\net7.0\Write LINQ Query.exe
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\bin\Debug\net7.0\Write LINQ Query.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\bin\Debug\net7.0\Write LINQ Query.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\bin\Debug\net7.0\Write LINQ Query.dll
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\bin\Debug\net7.0\Write LINQ Query.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.dll
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\refint\Write LINQ Query.dll
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\Write LINQ Query.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\01.Write LINQ Query\Write LINQ Query\Write LINQ Query\obj\Debug\net7.0\ref\Write LINQ Query.dll
