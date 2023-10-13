@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net7.0\IEnumerable and IQueryable.exe
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net7.0\IEnumerable and IQueryable.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net7.0\IEnumerable and IQueryable.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net7.0\IEnumerable and IQueryable.dll
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net7.0\IEnumerable and IQueryable.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.dll
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\refint\IEnumerable and IQueryable.dll
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\IEnumerable and IQueryable.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\02.IEnumerable and IQueryable\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net7.0\ref\IEnumerable and IQueryable.dll
