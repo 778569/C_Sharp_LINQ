@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\bin\Debug\net7.0\LINQ Select Projection Operator.exe
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\bin\Debug\net7.0\LINQ Select Projection Operator.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\bin\Debug\net7.0\LINQ Select Projection Operator.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\bin\Debug\net7.0\LINQ Select Projection Operator.dll
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\bin\Debug\net7.0\LINQ Select Projection Operator.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.dll
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\refint\LINQ Select Projection Operator.dll
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\LINQ Select Projection Operator.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\05.LINQ Select Projection Operator\LINQ Select Projection Operator\LINQ Select Projection Operator\obj\Debug\net7.0\ref\LINQ Select Projection Operator.dll
