@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\bin\Debug\net7.0\LINQ SelectMany Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\bin\Debug\net7.0\LINQ SelectMany Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\bin\Debug\net7.0\LINQ SelectMany Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\bin\Debug\net7.0\LINQ SelectMany Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\bin\Debug\net7.0\LINQ SelectMany Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\refint\LINQ SelectMany Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\LINQ SelectMany Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\06.LINQ SelectMany Method\LINQ SelectMany Method\LINQ SelectMany Method\obj\Debug\net7.0\ref\LINQ SelectMany Method.dll
