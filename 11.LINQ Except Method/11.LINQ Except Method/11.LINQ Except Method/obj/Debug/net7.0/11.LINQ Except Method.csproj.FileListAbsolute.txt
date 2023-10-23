@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\bin\Debug\net7.0\11.LINQ Except Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\bin\Debug\net7.0\11.LINQ Except Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\bin\Debug\net7.0\11.LINQ Except Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\bin\Debug\net7.0\11.LINQ Except Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\bin\Debug\net7.0\11.LINQ Except Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\refint\11.LINQ Except Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\11.LINQ Except Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\11.LINQ Except Method\obj\Debug\net7.0\ref\11.LINQ Except Method.dll
