@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\bin\Debug\net7.0\LINQ Concat Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\bin\Debug\net7.0\LINQ Concat Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\bin\Debug\net7.0\LINQ Concat Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\bin\Debug\net7.0\LINQ Concat Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\bin\Debug\net7.0\LINQ Concat Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\refint\LINQ Concat Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\LINQ Concat Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\14.LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\LINQ Concat Method\obj\Debug\net7.0\ref\LINQ Concat Method.dll

@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LINQ_Concat_Method
+{
+    public class Example_Complex_Type
+    {
+
+        public void Test()
+        {
+
+            List<Student> StudentCollection1 = new List<Student>()
+            {
+
+                new Student {ID = 101, Name = "Preety" },
+                new Student {ID = 102, Name = "Sambit" },
+                new Student {ID = 105, Name = "Hina"},
+                new Student {ID = 106, Name = "Anurag"},
+
+            };
+
+            List<Student> StudentCollection2 = new List<Student>()
+            {
+                new Student {ID = 105, Name = "Hina"},
+                new Student {ID = 106, Name = "Anurag"},
+                new Student {ID = 107, Name = "Pranaya"},
+                new Student {ID = 108, Name = "Santosh"},
+            };
+
+
+            var MS = StudentCollection1.Concat(StudentCollection2).ToList();
+
+            var QS = (from stu in StudentCollection2
+                      select stu).Concat(StudentCollection1).ToList();
+
+            foreach (var item in MS)
+            {
+                Console.WriteLine("Id = " + item.ID +" "+ "Name = " + item.Name);
+            }
+        }
+    }
+}
