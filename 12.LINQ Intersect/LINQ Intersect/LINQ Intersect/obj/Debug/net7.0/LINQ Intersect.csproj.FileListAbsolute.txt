@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\bin\Debug\net7.0\LINQ Intersect.exe
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\bin\Debug\net7.0\LINQ Intersect.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\bin\Debug\net7.0\LINQ Intersect.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\bin\Debug\net7.0\LINQ Intersect.dll
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\bin\Debug\net7.0\LINQ Intersect.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.dll
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\refint\LINQ Intersect.dll
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\LINQ Intersect.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\12.LINQ Intersect\12.LINQ Intersect\LINQ Intersect\LINQ Intersect\obj\Debug\net7.0\ref\LINQ Intersect.dll
