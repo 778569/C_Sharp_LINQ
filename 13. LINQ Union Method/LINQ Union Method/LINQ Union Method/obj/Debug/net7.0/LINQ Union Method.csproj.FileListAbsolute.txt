@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\bin\Debug\net7.0\LINQ Union Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\bin\Debug\net7.0\LINQ Union Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\bin\Debug\net7.0\LINQ Union Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\bin\Debug\net7.0\LINQ Union Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\bin\Debug\net7.0\LINQ Union Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\refint\LINQ Union Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\LINQ Union Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\13. LINQ Union Method\13. LINQ Union Method\LINQ Union Method\LINQ Union Method\obj\Debug\net7.0\ref\LINQ Union Method.dll
