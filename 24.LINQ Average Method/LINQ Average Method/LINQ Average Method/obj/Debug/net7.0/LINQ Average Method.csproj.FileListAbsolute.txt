@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\bin\Debug\net7.0\LINQ Average Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\bin\Debug\net7.0\LINQ Average Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\bin\Debug\net7.0\LINQ Average Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\bin\Debug\net7.0\LINQ Average Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\bin\Debug\net7.0\LINQ Average Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\refint\LINQ Average Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\LINQ Average Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\24.LINQ Average Method\LINQ Average Method\LINQ Average Method\obj\Debug\net7.0\ref\LINQ Average Method.dll
