@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\bin\Debug\net7.0\LINQ Inner Join.exe
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\bin\Debug\net7.0\LINQ Inner Join.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\bin\Debug\net7.0\LINQ Inner Join.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\bin\Debug\net7.0\LINQ Inner Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\bin\Debug\net7.0\LINQ Inner Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\refint\LINQ Inner Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\LINQ Inner Join.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\36.LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\LINQ Inner Join\obj\Debug\net7.0\ref\LINQ Inner Join.dll
