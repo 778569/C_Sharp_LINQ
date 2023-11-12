@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\bin\Debug\net7.0\LINQ All Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\bin\Debug\net7.0\LINQ All Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\bin\Debug\net7.0\LINQ All Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\bin\Debug\net7.0\LINQ All Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\bin\Debug\net7.0\LINQ All Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\refint\LINQ All Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\LINQ All Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\29.LINQ All Method\LINQ All Method\LINQ All Method\LINQ All Method\obj\Debug\net7.0\ref\LINQ All Method.dll
