@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\bin\Debug\net7.0\Append Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\bin\Debug\net7.0\Append Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\bin\Debug\net7.0\Append Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\bin\Debug\net7.0\Append Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\bin\Debug\net7.0\Append Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\refint\Append Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\Append Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\58.LINQ Append Method\LINQ Append Method\Append Method\Append Method\obj\Debug\net7.0\ref\Append Method.dll

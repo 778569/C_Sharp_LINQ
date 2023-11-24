@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\bin\Debug\net7.0\Empty Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\bin\Debug\net7.0\Empty Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\bin\Debug\net7.0\Empty Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\bin\Debug\net7.0\Empty Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\bin\Debug\net7.0\Empty Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\refint\Empty Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\Empty Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\57.LINQ Empty Method\LINQ Empty Method\Empty Method\Empty Method\obj\Debug\net7.0\ref\Empty Method.dll
