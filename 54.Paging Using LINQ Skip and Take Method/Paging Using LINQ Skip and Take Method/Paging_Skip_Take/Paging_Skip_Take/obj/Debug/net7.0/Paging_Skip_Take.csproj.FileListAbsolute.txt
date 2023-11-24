@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\bin\Debug\net7.0\Paging_Skip_Take.exe
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\bin\Debug\net7.0\Paging_Skip_Take.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\bin\Debug\net7.0\Paging_Skip_Take.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\bin\Debug\net7.0\Paging_Skip_Take.dll
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\bin\Debug\net7.0\Paging_Skip_Take.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.dll
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\refint\Paging_Skip_Take.dll
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\Paging_Skip_Take.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\54.Paging Using LINQ Skip and Take Method\Paging Using LINQ Skip and Take Method\Paging_Skip_Take\Paging_Skip_Take\obj\Debug\net7.0\ref\Paging_Skip_Take.dll

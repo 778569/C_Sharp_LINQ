@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Paging_Skip_Take/1.0.0": {
+        "runtime": {
+          "Paging_Skip_Take.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paging_Skip_Take/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
