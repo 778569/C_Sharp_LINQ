@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Cast and OfType", "LINQ Cast and OfType\LINQ Cast and OfType.csproj", "{5986E995-5E9F-4AD1-A96B-3310381676EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5986E995-5E9F-4AD1-A96B-3310381676EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5986E995-5E9F-4AD1-A96B-3310381676EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5986E995-5E9F-4AD1-A96B-3310381676EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5986E995-5E9F-4AD1-A96B-3310381676EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB299DC1-F3C8-4D28-858C-72A1E1E715F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\bin\Debug\net7.0\LINQ Cast Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\bin\Debug\net7.0\LINQ Cast Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\bin\Debug\net7.0\LINQ Cast Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\bin\Debug\net7.0\LINQ Cast Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\bin\Debug\net7.0\LINQ Cast Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\refint\LINQ Cast Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\LINQ Cast Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\63. LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\LINQ Cast Method\obj\Debug\net7.0\ref\LINQ Cast Method.dll

@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\bin\Debug\net7.0\LINQ Cast and OfType.exe
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\bin\Debug\net7.0\LINQ Cast and OfType.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\bin\Debug\net7.0\LINQ Cast and OfType.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\bin\Debug\net7.0\LINQ Cast and OfType.dll
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\bin\Debug\net7.0\LINQ Cast and OfType.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.dll
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\refint\LINQ Cast and OfType.dll
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\LINQ Cast and OfType.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\64.Between LINQ Cast and OfType\Between LINQ Cast and OfType\LINQ Cast and OfType\LINQ Cast and OfType\obj\Debug\net7.0\ref\LINQ Cast and OfType.dll
