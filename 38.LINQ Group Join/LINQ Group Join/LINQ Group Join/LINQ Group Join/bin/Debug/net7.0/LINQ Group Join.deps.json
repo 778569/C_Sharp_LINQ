@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LINQ Group Join/1.0.0": {
+        "runtime": {
+          "LINQ Group Join.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ Group Join/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

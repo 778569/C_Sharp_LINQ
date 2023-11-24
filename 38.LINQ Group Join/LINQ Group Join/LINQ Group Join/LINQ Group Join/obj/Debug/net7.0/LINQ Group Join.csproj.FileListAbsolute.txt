@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\bin\Debug\net7.0\LINQ Group Join.exe
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\bin\Debug\net7.0\LINQ Group Join.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\bin\Debug\net7.0\LINQ Group Join.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\bin\Debug\net7.0\LINQ Group Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\bin\Debug\net7.0\LINQ Group Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\refint\LINQ Group Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\LINQ Group Join.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\38.LINQ Group Join\LINQ Group Join\LINQ Group Join\LINQ Group Join\obj\Debug\net7.0\ref\LINQ Group Join.dll
