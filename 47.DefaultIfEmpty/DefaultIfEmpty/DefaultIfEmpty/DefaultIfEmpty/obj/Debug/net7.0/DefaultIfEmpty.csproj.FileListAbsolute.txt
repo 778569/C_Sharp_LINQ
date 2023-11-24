@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\bin\Debug\net7.0\DefaultIfEmpty.exe
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\bin\Debug\net7.0\DefaultIfEmpty.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\bin\Debug\net7.0\DefaultIfEmpty.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\bin\Debug\net7.0\DefaultIfEmpty.dll
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\bin\Debug\net7.0\DefaultIfEmpty.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.dll
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\refint\DefaultIfEmpty.dll
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\DefaultIfEmpty.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\47.DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\DefaultIfEmpty\obj\Debug\net7.0\ref\DefaultIfEmpty.dll

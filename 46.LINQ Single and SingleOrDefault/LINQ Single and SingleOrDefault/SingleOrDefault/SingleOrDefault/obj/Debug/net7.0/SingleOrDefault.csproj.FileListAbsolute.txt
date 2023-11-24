@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\bin\Debug\net7.0\SingleOrDefault.exe
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\bin\Debug\net7.0\SingleOrDefault.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\bin\Debug\net7.0\SingleOrDefault.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\bin\Debug\net7.0\SingleOrDefault.dll
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\bin\Debug\net7.0\SingleOrDefault.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.dll
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\refint\SingleOrDefault.dll
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\SingleOrDefault.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\46.LINQ Single and SingleOrDefault\LINQ Single and SingleOrDefault\SingleOrDefault\SingleOrDefault\obj\Debug\net7.0\ref\SingleOrDefault.dll
