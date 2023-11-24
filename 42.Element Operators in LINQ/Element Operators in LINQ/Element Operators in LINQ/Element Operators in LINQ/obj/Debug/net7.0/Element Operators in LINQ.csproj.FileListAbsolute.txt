@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\bin\Debug\net7.0\Element Operators in LINQ.exe
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\bin\Debug\net7.0\Element Operators in LINQ.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\bin\Debug\net7.0\Element Operators in LINQ.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\bin\Debug\net7.0\Element Operators in LINQ.dll
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\bin\Debug\net7.0\Element Operators in LINQ.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.dll
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\refint\Element Operators in LINQ.dll
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\Element Operators in LINQ.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\42.Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\Element Operators in LINQ\obj\Debug\net7.0\ref\Element Operators in LINQ.dll

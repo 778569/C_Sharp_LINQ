@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\bin\Debug\net7.0\LINQ Cross Join.exe
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\bin\Debug\net7.0\LINQ Cross Join.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\bin\Debug\net7.0\LINQ Cross Join.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\bin\Debug\net7.0\LINQ Cross Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\bin\Debug\net7.0\LINQ Cross Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\refint\LINQ Cross Join.dll
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\LINQ Cross Join.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\41.LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\LINQ Cross Join\obj\Debug\net7.0\ref\LINQ Cross Join.dll
