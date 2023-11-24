@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\bin\Debug\net7.0\ToList and ToArray.exe
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\bin\Debug\net7.0\ToList and ToArray.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\bin\Debug\net7.0\ToList and ToArray.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\bin\Debug\net7.0\ToList and ToArray.dll
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\bin\Debug\net7.0\ToList and ToArray.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.dll
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\refint\ToList and ToArray.dll
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ToList and ToArray.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\61.ToList and ToArray\ToList and ToArray\ToList and ToArray\ToList and ToArray\obj\Debug\net7.0\ref\ToList and ToArray.dll

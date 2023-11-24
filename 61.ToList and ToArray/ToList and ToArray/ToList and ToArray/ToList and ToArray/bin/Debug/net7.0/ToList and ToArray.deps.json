@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ToList and ToArray/1.0.0": {
+        "runtime": {
+          "ToList and ToArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToList and ToArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
