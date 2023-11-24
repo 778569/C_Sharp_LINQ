@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take Method", "Take Method\Take Method.csproj", "{07227D45-3A21-4653-A7C6-7042E4C590EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07227D45-3A21-4653-A7C6-7042E4C590EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07227D45-3A21-4653-A7C6-7042E4C590EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07227D45-3A21-4653-A7C6-7042E4C590EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07227D45-3A21-4653-A7C6-7042E4C590EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C43241-6FD5-4908-8528-D5BCCD030B8C}
+	EndGlobalSection
+EndGlobal

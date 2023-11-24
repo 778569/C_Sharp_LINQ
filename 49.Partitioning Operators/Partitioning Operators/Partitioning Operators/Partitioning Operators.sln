@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partitioning Operators", "Partitioning Operators\Partitioning Operators.csproj", "{1C9380A4-84E3-4287-92DE-680D128E8D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9380A4-84E3-4287-92DE-680D128E8D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9380A4-84E3-4287-92DE-680D128E8D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9380A4-84E3-4287-92DE-680D128E8D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9380A4-84E3-4287-92DE-680D128E8D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7211257F-1EF0-4385-A0CB-439A72A83668}
+	EndGlobalSection
+EndGlobal
