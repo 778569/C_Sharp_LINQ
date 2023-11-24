@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\bin\Debug\net7.0\SkipWhile Method.exe
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\bin\Debug\net7.0\SkipWhile Method.deps.json
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\bin\Debug\net7.0\SkipWhile Method.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\bin\Debug\net7.0\SkipWhile Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\bin\Debug\net7.0\SkipWhile Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\refint\SkipWhile Method.dll
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.pdb
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\SkipWhile Method.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\LINQ\53.SkipWhile Method\SkipWhile Method\SkipWhile Method\SkipWhile Method\obj\Debug\net7.0\ref\SkipWhile Method.dll
